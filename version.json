@@ -4,6 +4,6 @@
   "mandatory": true,
   "downloadUrl": "https://github.com/Ilyas-lh/my-app-updates/releases/download/v3.0.0/APK2.apk",
   "iOSAppStoreUrl": "https://apps.apple.com/app/YOUR_APP_ID",
-  "releaseNotes": "This update includes important bug fixes and new features. Please update to continue using the app.",
+  "releaseNotes": "This update includes important bug fixes and new features.",
   "publishDate": "2025-05-05"
 }
