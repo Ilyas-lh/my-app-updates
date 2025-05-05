@@ -1,6 +1,9 @@
 {
-  "latestVersion": "3.0.0",
+  "latestVersion": "2.0.0",
   "minSupportedVersion": "1.0.0",
-  "releaseNotes": "New featuresss and performance improvements in version 3.0.0",
+  "mandatory": true,
+  "downloadUrl": "", // We'll fill this after creating the release
+  "iOSAppStoreUrl": "https://apps.apple.com/app/YOUR_APP_ID",
+  "releaseNotes": "This update includes important bug fixes and new features. Please update to continue using the app.",
   "publishDate": "2025-05-05"
 }
